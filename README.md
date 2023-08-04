@@ -1,2 +1,8 @@
 # oibsip_tasks
-This Repository contains all the required projects to complete an internship for Oasis Infobyte.
+Web Development internship project given by Oasis Infobyte (Level 1)
+
+Task 1: Landing Page
+
+Task 2: Portfolio
+
+Task 3: Temperature Converter Website
