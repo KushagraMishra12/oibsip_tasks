@@ -1,0 +1,60 @@
+{
+      font-family: Times New Roman, serif;
+      background: linear-gradient(to right, #87CEFA, #FFC0CB, #FFFFE0);
+      text-align: center;
+    }
+
+    h1 {
+      color: #6A0DAD;
+      font-family: "Flamenco", cursive;
+      font-style: italic;
+    }
+
+    .converter {
+      margin: 50px auto;
+      width: 300px;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    }
+
+    label {
+      display: block;
+      margin-bottom: 10px;
+      font-weight: bold;
+      color: #555;
+    }
+
+    input[type="text"] {
+      width: 100%;
+      padding: 5px;
+      font-size: 16px;
+    }
+
+    select {
+      width: 100%;
+      padding: 5px;
+      font-size: 16px;
+    }
+
+    button {
+      width: 100%;
+      padding: 10px;
+      font-size: 16px;
+      background-color: #4CAF50;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .result {
+  margin-top: 20px;
+  font-size: 24px; /* Increased font size */
+  font-weight: bold;
+  background-color: #fff;
+  color: #00008B;
+  padding: 10px;
+  border-radius: 5px;
+}
